@@ -49,3 +49,18 @@ To https://github.com/TINTUEEECEC/Visa_approval.git
    cf9bd74..6eae2fb  main -> main
 
 Tintu Thomas@TintuThomasVaniyakeriyil MINGW64 /d/GenAI_myworks/Visa_approval (main)
+
+
+Anaconda: https://www.anaconda.com/
+Vs code: https://code.visualstudio.com/download
+Git: https://git-scm.com/
+Flowchart: https://whimsical.com/login
+
+
+
+
+
+Github link: https://github.com/entbappy/US-Visa-Approval-Prediction
+Autocomplete tool: Tabnine
+MongoDB: https://account.mongodb.com/account/login
+Slide: https://docs.google.com/presentation/d/1A_3ne0igLvWSIZqYDFcpT41hkxdj55bDy889Bi9G0ZQ/edit?usp=sharing
